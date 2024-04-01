@@ -14,8 +14,20 @@
 | 19/11/2023 | 394,286 | 188 |
 | 20/11/2023 | 373,859 | 197 |
 | 21/11/2023 | 352,180 | 207 |
-
+| 22/11/2023 | 346,048 | 211 |
+| 27/11/2023 | 323,116 | 226 |
+| 01/04/2024 | 297,094 | 261 |
 
 ## Questions to re-visit
 * House Robber
 * Coin Change
+* 3Sum
+* Product of Array Except Self
+* Container with most water
+* Longest Common Subsequence
+* Course Schedule
+* Longest Repeating Character Replacement
+
+
+##
+100133. Minimum Number of Coins for Fruits
